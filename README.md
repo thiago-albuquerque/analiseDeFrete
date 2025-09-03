@@ -10,9 +10,29 @@ Este dashboard foi desenvolvido em EXCEL, para consolidar e analisar informaçõ
 * Tempo médio de entrega por estado em dias
 * Total de entregas por estado
 * Preferência de pagamento
+<br/>
 
 ### Análise dos Dados
-
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
 
 ### Relatório da Análise com Gráficos
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<br/>
 
+## Conclusão
+A análise evidencia que:
+* A empresa tem boa cobertura geográfica e consistência nos prazos de entrega.
+* Os custos de frete estão concentrados nos estados com maior volume de pedidos (SP e RJ), sugerindo correlação entre demanda e despesa logística.
+* A diversificação nos meios de pagamento garante flexibilidade e atende diferentes perfis de clientes.
+<b/>
+
+Essas informações permitem ao gestor identificar pontos fortes e oportunidades de melhoria, além de direcionar decisões para otimização de custos, manutenção da qualidade logística e fortalecimento da experiência do cliente.
