@@ -2,6 +2,11 @@
 
 Este dashboard foi desenvolvido em EXCEL, para consolidar e analisar informações relacionadas ao processo logístico, oferecendo uma visão gerencial sobre custos, volume de vendas e desempenho operacional. A análise contempla indicadores estratégicos como: total de itens vendidos, estados atendidos, custo total e distribuído do frete, tempo médio de entrega por estado, volume de entregas regionais e preferências de pagamento dos clientes. O objetivo é apoiar a tomada de decisão, identificar oportunidades de otimização logística e compreender padrões de consumo.
 
+### Download da Planilha
+Você pode baixar a planilha excel utilizada nesta análise clicando 
+[Nesse Link](https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_frete.xlsx?raw=true)
+<br/><br/>
+
 ### Regras de Negócio para Analisar
 * Total de itens vendidos
 * Total de estados atendidos
