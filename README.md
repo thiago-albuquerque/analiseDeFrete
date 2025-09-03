@@ -12,20 +12,20 @@ Este dashboard foi desenvolvido em EXCEL, para consolidar e analisar informaçõ
 * Preferência de pagamento
 <br/>
 
-### Análise dos Dados
+## Análise dos Dados
 <img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
 <br/>
 
-### Relatório da Análise com Gráficos
-<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+## Relatório da Análise com Gráficos
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/regra_1_2_3.PNG'/>
 <br/>
-<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/regra_4.PNG'/>
 <br/>
-<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/regra_5.PNG'/>
 <br/>
-<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/regra_6.PNG'/>
 <br/>
-<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/analise_dos_dados.PNG'/>
+<img src='https://github.com/thiago-albuquerque/analiseDeFrete/blob/main/regra_7.PNG'/>
 <br/>
 
 ## Conclusão
